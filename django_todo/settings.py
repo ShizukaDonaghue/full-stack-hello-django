@@ -29,7 +29,7 @@ SECRET_KEY = 'django-insecure-_ejvgfjf9pf(=7m8mzsc%aso=#i7#jo^n#4gul-fevxdt2^@je
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['shizuka-todo-app.herokuapp.com']
 
 
 # Application definition
